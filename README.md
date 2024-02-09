@@ -18,7 +18,7 @@ In this project, the author compares through Venn diagrams different combination
 
 #### In order to run this model in **Windows** follow these steps:
 
-This project utilizes a Python virtual environment named "classCD-venv" to isolate its dependencies. Follow the instructions below to set up the virtual environment on a Windows machine.
+This project utilizes a Python virtual environment named "hotel_res-venv" to isolate its dependencies. Follow the instructions below to set up the virtual environment on a Windows machine.
 
 1. Open PowerShell as an administrator. To do this, right-click on the PowerShell icon and choose "Run as administrator."
 
